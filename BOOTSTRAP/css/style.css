@@ -1,0 +1,68 @@
+.clasecolorrojo{
+    color: red; text-align: center; font-family: monospace; 
+}
+
+.text-justify{
+    text-align:justify ;
+}
+h1{
+    text-align: center;
+}
+
+style{
+    background-color: blueviolet;
+}
+body{
+    background: #975b53;
+    background: linear-gradient(to right, #ffa551, #975b53);
+}
+
+
+/*.container-fluid{
+    background: #a8ff78;
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78); 
+background: linear-gradient(to right, #78ffd6, #a8ff78);
+}*/
+
+
+
+.boton-volver{
+    float: right;
+    margin: 5px;
+    background-color:cornflowerblue;
+}
+
+/*.container2{
+    margin: 5px;
+    background: #a8ff78;  
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  
+background: linear-gradient(to right, #78ffd6, #a8ff78); 
+}*/
+
+/*letras de las imagenes del carrusel de los ultimos trabajos */
+#carrusel{
+    text-decoration-color: blanchedalmond;
+    background-color:black;
+    text-align: center;
+    
+}
+#ultimostrabajos{
+    text-align: center;
+}
+/*.reparaciones{  /*Clase para las imagenes del carrusel
+    margin-bottom: 50px;
+    margin-left: 250px;
+    width: 800px;
+    height: 500px;}*/
+
+.row1{
+    background: #975b53;
+    background: linear-gradient(to right, #ffa551, #975b53);
+}
+/*.row5{
+    
+    margin-bottom: 50px;
+    margin-left: 250px;
+    width: 750px;
+    height: 700px;
+}*/
