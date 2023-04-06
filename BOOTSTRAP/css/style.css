@@ -66,3 +66,9 @@ background: linear-gradient(to right, #78ffd6, #a8ff78);
     width: 750px;
     height: 700px;
 }*/
+
+#miDiv {
+    background-image: url("https://img.freepik.com/foto-gratis/trabajador-servicio-coche-musculoso-reparando-vehiculo_146671-19605.jpg");
+    background-size: cover;
+    background-position: center;
+  }
